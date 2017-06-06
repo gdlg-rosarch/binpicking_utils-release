@@ -1,0 +1,12 @@
+Source: ros-kinetic-bin-pose-emulator
+Section: misc
+Priority: extra
+Maintainer: Frantisek Durovsky <durovsky@photoneo.com>
+Build-Depends: debhelper (>= 9.0.0), libyaml-cpp-dev, ros-kinetic-bin-pose-msgs, ros-kinetic-catkin, ros-kinetic-roscpp, ros-kinetic-tf, ros-kinetic-visualization-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-bin-pose-emulator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libyaml-cpp-dev, ros-kinetic-bin-pose-msgs, ros-kinetic-roscpp, ros-kinetic-tf, ros-kinetic-visualization-msgs
+Description: bin_pose_emulator generates random poses of items in the predefined bin.
