@@ -2,6 +2,11 @@
 Changelog for package binpicking_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.4 (2017-09-08)
+------------------
+* adding CHANGELOGS
+* Contributors: Frantisek Durovsky
+
 0.1.3 (2017-07-06)
 ------------------
 * Contributors: Frantisek Durovsky
